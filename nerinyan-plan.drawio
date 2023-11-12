@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T02:44:22.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OljSGbSrY7EkVnYVJdM5" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-12T02:52:47.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BIJP1KfUqxytdiSLzfgc" version="22.1.0" type="github" pages="2">
   <diagram name="페이지-1" id="ylLfvujrxQ4OcKe9-wFL">
     <mxGraphModel dx="1804" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -200,6 +200,20 @@
         <mxCell id="x4HYtoGJtyllmNgH3t5M-2" value="1. map filename&lt;br&gt;2. file info update" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x4HYtoGJtyllmNgH3t5M-1">
           <mxGeometry x="-0.0748" y="-1" relative="1" as="geometry">
             <mxPoint x="-64" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x4HYtoGJtyllmNgH3t5M-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="_q4iehMltZ5T4as94G1Y-21" target="_q4iehMltZ5T4as94G1Y-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="-80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="-70" />
+            </Array>
+            <mxPoint x="370" y="-150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x4HYtoGJtyllmNgH3t5M-4" value="redirect" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="x4HYtoGJtyllmNgH3t5M-3">
+          <mxGeometry x="-0.673" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
